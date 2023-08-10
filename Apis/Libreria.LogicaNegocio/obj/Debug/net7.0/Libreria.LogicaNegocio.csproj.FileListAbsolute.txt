@@ -1,0 +1,12 @@
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.deps.json
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.AssemblyInfo.cs
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\obj\Debug\net7.0\refint\Libreria.LogicaNegocio.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\obj\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaNegocio\obj\Debug\net7.0\ref\Libreria.LogicaNegocio.dll

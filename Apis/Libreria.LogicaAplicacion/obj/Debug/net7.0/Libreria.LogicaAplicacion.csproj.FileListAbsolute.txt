@@ -1,0 +1,16 @@
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\bin\Debug\net7.0\Libreria.LogicaAplicacion.deps.json
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\bin\Debug\net7.0\Libreria.LogicaAplicacion.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\bin\Debug\net7.0\Libreria.LogicaAplicacion.pdb
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\bin\Debug\net7.0\Libreria.WebApi.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\obj\Debug\net7.0\Libreria.LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\obj\Debug\net7.0\Libreria.LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\obj\Debug\net7.0\Libreria.LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\obj\Debug\net7.0\Libreria.LogicaAplicacion.AssemblyInfo.cs
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\obj\Debug\net7.0\Libreria.LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\obj\Debug\net7.0\Libreria.LogicaAplicacion.csproj.CopyComplete
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\obj\Debug\net7.0\Libreria.LogicaAplicacion.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\obj\Debug\net7.0\refint\Libreria.LogicaAplicacion.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\obj\Debug\net7.0\Libreria.LogicaAplicacion.pdb
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Libreria.LogicaAplicacion\obj\Debug\net7.0\ref\Libreria.LogicaAplicacion.dll

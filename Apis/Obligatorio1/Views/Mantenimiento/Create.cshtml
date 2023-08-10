@@ -1,0 +1,51 @@
+﻿@model Libreria.LogicaNegocio.Entidades.Mantenimiento
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<h2>Cabania</h2>
+
+
+<ul>
+    <li>Nombre: @ViewBag.cab.Nombre</li>
+    <li>Descripcion: @ViewBag.cab.Descripcion</li>
+    <li>TieneReservas: @ViewBag.cab.TieneReservas</li>
+    <li>TieneJacuzzi:  @ViewBag.cab.TieneJacuzzi</li>
+</ul>
+<h4>Mantenimiento</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Costo" class="control-label"></label>
+                <input asp-for="Costo" class="form-control" />
+                <span asp-validation-for="Costo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NombreUs" class="control-label">Nombre de Trabajador</label>
+                <input asp-for="NombreUs" class="form-control" />
+                <span asp-validation-for="NombreUs" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <p>@Html.ActionLink("Volver", "Index", "Cabania")</p>
+</div>
+<p>@ViewBag.msg</p>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

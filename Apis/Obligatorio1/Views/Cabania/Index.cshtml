@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Libreria.LogicaNegocio.Entidades.Cabania> 
+
+<form method="post">
+    <div class="form-group">
+        <label class="control-label">Nombre</label>
+        <input name="nomCab" class="form-control"  />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Tipo de cabania</label>
+        <select name="tipoId" value="tp">
+            <option value="@null"> </option>
+            @foreach (var tp in ViewBag.Tipos)
+            {
+                <option value="@tp.Id">@tp.Nombre</option>
+            }
+
+        </select>
+
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Cantidad de Persnas</label>
+        <input name="cantPer" class="form-control" type="number" />
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Esta habilitada</label>
+        <input name="hab"  class="" type="checkbox" value="check" />
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Buscar" class="btn btn-primary" />
+    </div>
+</form>
+
+<p> @Html.ActionLink("Crear", "Create", "Cabania")</p>
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Descripcion</th>
+            <th>Tiene Jacuzzi</th>
+            <th>Nombre Del tipo</th>
+            <th>Costo por Huesped</th>
+            <th>Se puede reservar</th>
+            <th>Foto</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var cab in Model)
+            {
+                <tr>
+                    <td>@cab.Nombre</td>
+                    <td>@cab.Descripcion</td>
+                    <td>@cab.TieneJacuzzi</td>
+                    <td>@cab.Tipo.Nombre</td>
+                    <td>@cab.Tipo.CostoHuesped</td>
+                    <td>@cab.TieneReservas</td>
+                    <td><img class="img-thumbnail" src="/imagen/fotos/@cab.NombreFoto" /></td>
+                    <td>@Html.ActionLink("Agregar","Create","Mantenimiento", new {id = cab.NumeroHabitacion})</td>
+                    <td>@Html.ActionLink("Ver Manteniminetos","MantenimientosFecha","Mantenimiento", new {id = cab.NumeroHabitacion})</td>
+                </tr>
+            }
+
+        }
+    </tbody>
+</table>
+

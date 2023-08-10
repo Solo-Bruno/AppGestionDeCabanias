@@ -1,0 +1,17 @@
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaAccesoDatos.deps.json
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaAccesoDatos.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaAccesoDatos.pdb
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaAplicacion.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaAplicacion.pdb
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\bin\Debug\net7.0\Libreria.LogicaNegocio.pdb
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\obj\Debug\net7.0\Libreria.LogicaAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\obj\Debug\net7.0\Libreria.LogicaAccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\obj\Debug\net7.0\Libreria.LogicaAccesoDatos.AssemblyInfoInputs.cache
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\obj\Debug\net7.0\Libreria.LogicaAccesoDatos.AssemblyInfo.cs
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\obj\Debug\net7.0\Libreria.LogicaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\obj\Debug\net7.0\Libreria.LogicaAccesoDatos.csproj.CopyComplete
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\obj\Debug\net7.0\Libreria.LogicaAccesoDatos.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\obj\Debug\net7.0\refint\Libreria.LogicaAccesoDatos.dll
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\obj\Debug\net7.0\Libreria.LogicaAccesoDatos.pdb
+C:\Users\SoloBruno\Desktop\Funciona\Apis\Librería.LogicaAccesoDatos\obj\Debug\net7.0\ref\Libreria.LogicaAccesoDatos.dll

@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Libreria.LogicaAplicacion</name>
+    </assembly>
+    <members>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.FiltroCabaniasDto.tipoId">
+            <summary>
+             Tipo Cabania por el cual filtrar.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.FiltroCabaniasDto.monto">
+            <summary>
+             Monto para filtrar.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.FiltrosDto.nombre">
+            <summary>
+             Filtro del nombre.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.FiltrosDto.tipoId">
+            <summary>
+             Filtro del Tipo Cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.FiltrosDto.cantidad">
+            <summary>
+             Filtro de la cantidad maxima de personas.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.FiltrosDto.hab">
+            <summary>
+             Filtro si esta habilitada.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.MttoGrupBy.Nombre">
+            <summary>
+             Nombre del Empleado que realizo el Mantenimineto.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.MttoGrupBy.Total">
+            <summary>
+             Monto total de sus Manteniminetos realizados.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.NombreTipoDto.Valor">
+            <summary>
+             Filtro por valor.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.topesGroupBy.Top1">
+            <summary>
+             Filtro tope 1.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.topesGroupBy.Top2">
+            <summary>
+             Filtro tope 2.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.ValoresBusquedaFechaDto.fch1">
+            <summary>
+             Filtro rango fecha 1.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.ValoresBusquedaFechaDto.fch2">
+            <summary>
+             Filtro rango fecha 2.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.Auxiliar.ValoresBusquedaFechaDto.id">
+            <summary>
+             Id de la Cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.CabaniaDto.NumeroHabitacion">
+            <summary>
+            Identificador de la cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.CabaniaDto.Nombre">
+            <summary>
+            Nombre de la cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.CabaniaDto.Descripcion">
+            <summary>
+            Descripcion de la cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.CabaniaDto.TieneJacuzzi">
+            <summary>
+            Informa si la cabania tiene incorporado un/os Jacizzi/s.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.CabaniaDto.TieneReservas">
+            <summary>
+            Informa si la cabania tiene reservas.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.CabaniaDto.CantMaxPers">
+            <summary>
+            Cantidad maxima de personas que soporta la cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.CabaniaDto.NombreFoto">
+            <summary>
+            Nombre de la imagen de la Cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.CabaniaDto.TipoId">
+            <summary>
+            Id que vincula la Cabania con Tipo Cabania .
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.MantenimientoDto.Id">
+            <summary>
+            Id Mantenimiento.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.MantenimientoDto.Fecha">
+            <summary>
+            Fecha del Mantenimiento.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.MantenimientoDto.Descripcion">
+            <summary>
+            Descripcion del Mantenimiento.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.MantenimientoDto.Costo">
+             <summary>
+            Costo del Mantenimiento.
+             </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.MantenimientoDto.NombreUs">
+             <summary>
+            Nombre de la persona que realiza el Mantenimiento.
+             </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.MantenimientoDto.CabaniaId">
+             <summary>
+            id de la cabania a la que le pertenese el Mantenimineto.
+             </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.TipoCabaniaDto.Id">
+            <summary>
+            Id Tipo Cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.TipoCabaniaDto.Nombre">
+            <summary>
+            Nombre del Tipo Cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.TipoCabaniaDto.Descripcion">
+            <summary>
+            Descripcion del Tipo Cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.TipoCabaniaDto.CostoHuesped">
+            <summary>
+            Costo del Tipo Cabania.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.UsuarioDto.Id">
+            <summary>
+             Id del usuario.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.UsuarioDto.Email">
+            <summary>
+             Email del Usuario.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.UsuarioDto.Pass">
+            <summary>
+             Contrasenia del Usuario.
+            </summary>
+        </member>
+        <member name="P:Libreria.LogicaAplicacion.Dto.UsuarioDto.Token">
+            <summary>
+             Token del Usuario.
+            </summary>
+        </member>
+    </members>
+</doc>

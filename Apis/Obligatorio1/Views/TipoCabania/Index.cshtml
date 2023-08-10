@@ -1,0 +1,28 @@
+﻿@model IEnumerable<Libreria.LogicaNegocio.Entidades.TipoCabania>
+   <p > @Html.ActionLink("Crear", "Create") </p>
+   <p > @Html.ActionLink("Ir al buscador", "BuscadorTipoCabania", "TipoCabania") </p>
+  
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Descripcion</th>
+            <th>Costo huesped</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pe in Model)
+        {
+            <tr>
+                <td>@pe.Id</td>
+                <td>@pe.Nombre</td>
+                <td>@pe.Descripcion</td>
+                <td>@pe.CostoHuesped</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>@ViewBag.msg</p>
+<p>@TempData["error"]</p>

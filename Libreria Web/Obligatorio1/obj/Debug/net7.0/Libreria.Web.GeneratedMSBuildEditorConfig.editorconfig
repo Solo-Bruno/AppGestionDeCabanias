@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Libreria.Web
+build_property.RootNamespace = Libreria.Web
+build_property.ProjectDir = C:\Users\SoloBruno\Desktop\Funciona\Libreria Web\Obligatorio1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\SoloBruno\Desktop\Funciona\Libreria Web\Obligatorio1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Cabania/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5pYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Cabania/FiltradoCabanias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5pYVxGaWx0cmFkb0NhYmFuaWFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Cabania/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FiYW5pYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Mantenimiento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Mantenimiento/MantenimientosFecha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xNYW50ZW5pbWllbnRvc0ZlY2hhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Mantenimiento/MttoGroupBy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudGVuaW1pZW50b1xNdHRvR3JvdXBCeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/TipoCabania/BuscadorTipoCabania.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NhYmFuaWFcQnVzY2Fkb3JUaXBvQ2FiYW5pYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/TipoCabania/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NhYmFuaWFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/TipoCabania/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NhYmFuaWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/TipoCabania/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NhYmFuaWFcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/TipoCabania/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NhYmFuaWFcVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SoloBruno/Desktop/Funciona/Libreria Web/Obligatorio1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bmmo4di36y

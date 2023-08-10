@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewData["Title"] = "FiltradoCabanias";
+}
+
+@model IEnumerable<Libreria.Web.Models.CabaniaModel>
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label name="tipoId" class="control-label"></label>
+                <select name="tipoId">
+                    @foreach (var tp in ViewBag.listaTipos)
+                    {
+                        <option value="@tp.Id">@tp.Nombre</option>
+                    }
+                </select>
+                <span name="tipoId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Ingrese el monto</label>
+                <input name="Monto" type="number" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Buscar" />
+
+            </div>
+        </form>
+
+    </div>
+
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Capacidad</th>
+   
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null)
+        {
+            @foreach (var cab in Model)
+            {
+                <tr>
+                    <td>@cab.Nombre</td>
+                    <td>@cab.CantMaxPers</td>
+                 
+
+
+                </tr>
+            }
+
+        }
+    </tbody>
+</table>
+<p>@ViewBag.msg</p>

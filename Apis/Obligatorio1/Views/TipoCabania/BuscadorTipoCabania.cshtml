@@ -1,0 +1,43 @@
+﻿@model Libreria.LogicaNegocio.Entidades.TipoCabania
+
+<form  method="post">
+    <div class="form-group">
+        <label class="control-label">Nombre</label>
+        <input name="nombreTipo" class="form-control" />
+
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Buscar" class="btn btn-primary" />
+    </div>
+</form>
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Descripcion</th>
+            <th>Costo huesped</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        
+          @if(Model != null){
+            <tr>
+                <td>@Model.Id</td>
+                <td>@Model.Nombre</td>
+                <td>@Model.Descripcion</td>
+                <td>@Model.CostoHuesped</td>
+                <td>@Html.ActionLink("Eliminar",  "Remove", "TipoCabania", new {id = Model.Id})</td>
+                <td>@Html.ActionLink("Modificar",  "Update", "TipoCabania", new {id = Model.Id})</td>
+            </tr>
+          }
+  
+    </tbody>
+</table>
+
+<p>@ViewBag.msg</p>
+
